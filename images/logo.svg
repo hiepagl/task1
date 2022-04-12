@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="50" viewBox="0 0 250 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a8a8a8;
+      }
+
+      .cls-2 {
+        font-size: 30px;
+        fill: #fff;
+        font-family: "Yu Gothic";
+      }
+    </style>
+  </defs>
+  <rect id="Logo" class="cls-1" width="250" height="50"/>
+  <text id="_250_x_50" data-name="250 x 50" class="cls-2" x="66" y="36">250 x 50</text>
+</svg>
